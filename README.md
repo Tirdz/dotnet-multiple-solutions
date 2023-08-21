@@ -1,4 +1,4 @@
-# dotnet-api-template
+# dotnet-multiple-solutions
 Creating solution and project templates easily
 
 ![alt text](https://github.com/Tirdz/dotnet-api-template/blob/main/images/image-01.png?raw=true)
